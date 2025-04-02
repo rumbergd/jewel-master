@@ -13,14 +13,14 @@ A beautiful and engaging match-3 puzzle game built with SwiftUI for iOS. Match c
 
 ### Jewel Types
 Each jewel has a unique shape and color combination:
-- 🔴 Red Diamond
-- 🔵 Blue Pentagon
-- 💚 Green Square
-- 💛 Yellow Triangle
-- 💜 Purple Octagon
-- 🟠 Orange Hexagon
-- 🔷 Cyan Star
-- 💗 Pink Heart
+- Red Diamond (♦️)
+- Blue Pentagon (5-sided)
+- Green Square (■)
+- Yellow Triangle (▲)
+- Purple Octagon (8-sided)
+- Orange Hexagon (6-sided)
+- Cyan Star (★)
+- Pink Heart (♥️)
 
 ### Difficulty Progression
 - Difficulty increases every 100 points
